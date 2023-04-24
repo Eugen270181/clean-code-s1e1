@@ -4,24 +4,24 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.aaa {
+.tasks-about {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.aaa img {
+.tasks-about img {
   width: 100%;
 }
-.aaa .more-inf {
+.tasks-about .more-inf {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
-  .aaa { text-align: center;
+  .tasks-about { text-align: center;
 }
 }
-.centered-main-page-element {
+.tasks-main-box {
   display: block;
   width: 500px;
   margin: 0 auto 0;
